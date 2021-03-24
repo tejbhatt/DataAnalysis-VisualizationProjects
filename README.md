@@ -1,2 +1,2 @@
 # DataAnalysis-VisualizationProjects
-list of all data analysis i have done in my free time
+list of all data analysis projects & visualizations i have done in my free time
